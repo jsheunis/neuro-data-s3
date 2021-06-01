@@ -1,0 +1,1 @@
+2e7f2fda-e152-433c-be48-09fd981c724d autoenable=true bucket=sample-neurodata-public datacenter=EU encryption=none host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1622554167.470114s
